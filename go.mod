@@ -1,7 +1,7 @@
 module github.com/edgexfoundry/edgex-go
 
 require (
-	bitbucket.org/bertimus9/systemstat v0.0.0-20180207000608-0eeff89b0690
+	bitbucket.org/bertimus9/systemstat v0.5.0
 	github.com/eclipse/paho.mqtt.golang v1.4.1
 	github.com/edgexfoundry/go-mod-bootstrap/v2 v2.3.0
 	github.com/edgexfoundry/go-mod-core-contracts/v2 v2.3.0
